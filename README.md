@@ -42,7 +42,3 @@ Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Syst
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=orange)](https://smaths.github.io/Portfolio/)
 [![Static Badge](https://img.shields.io/badge/Snarfum%20Industries-black?style=for-the-badge&color=4C64AC)](https://snarfum.com)
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logoColor=white&logo=bluesky)](https://bsky.app/profile/snarfum.bsky.social)
-
----
-
-*Developing Accessible Magic*
