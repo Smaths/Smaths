@@ -6,7 +6,7 @@ Building robust software, architecting immersive experiences, and crafting thoug
 
 ## Tech Stack
 
-**Languages & Frameworks**  
+<!-- **Languages & Frameworks** -->
 <!-- C#, TypeScript, PHP, Swift, Objective-C, SQL, Laravel, JavaScript, Max/MSP -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,11 +22,11 @@ Building robust software, architecting immersive experiences, and crafting thoug
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-**Domains**  
-Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Systems Architecture, DevOps, Custom Tooling & Pipelines, Analytics & Telemetry, AI & Procedural Content
+<!--**Domains**  
+Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Systems Architecture, DevOps, Custom Tooling & Pipelines, Analytics & Telemetry, AI & Procedural Content-->
 
-**Focus Areas**  
-**Performance Optimization** (profiling, Quest-targeted optimization to hit 72 FPS). **DevOps Pipeline** (CI/CD builds, automated change logs, robust PR process). **Game Design & UX** (puzzle/mechanic design, economy balancing, narrative integration). **Accessibility** (both in gameplay design and in tool creation, e.g., BeepBuddy)
+<!--**Focus Areas**  
+**Performance Optimization** (profiling, Quest-targeted optimization to hit 72 FPS). **DevOps Pipeline** (CI/CD builds, automated change logs, robust PR process). **Game Design & UX** (puzzle/mechanic design, economy balancing, narrative integration). **Accessibility** (both in gameplay design and in tool creation, e.g., BeepBuddy)-->
 
 ## Featured Projects
 - **[Collidascope VR](https://www.collidascope.art)** – A large-scale immersive XR experience blending art, narrative, and interactivity for Meta Quest 3.  
