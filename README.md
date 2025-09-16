@@ -1,8 +1,8 @@
 # Eric Wroble
 
 **Senior Full-Stack Software Developer & Game Designer**  
-Building robust software, architecting immersive experiences, and crafting thoughtful tools that make technology more accessible, meaningful, and enjoyable. I've had the opportunity to 
-work in many different domains in software development and am always eager to learn more.
+
+Building robust software, architecting immersive experiences, and crafting thoughtful tools that make technology more accessible, meaningful, and enjoyable. 
 
 ## Tech Stack
 
@@ -26,15 +26,15 @@ work in many different domains in software development and am always eager to le
 Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Systems Architecture, DevOps, Custom Tooling & Pipelines, Analytics & Telemetry, AI & Procedural Content
 
 **Focus Areas**  
-- Performance Optimization (profiling, Quest-targeted optimization to hit 72 FPS)
-- DevOps Pipeline (CI/CD builds, automated change logs, robust PR process)
-- Game Design & UX (puzzle/mechanic design, economy balancing, narrative integration)
-- Accessibility (both in gameplay design and in tool creation, e.g., BeepBuddy)
+- **Performance Optimization** (profiling, Quest-targeted optimization to hit 72 FPS)
+- **DevOps Pipeline** (CI/CD builds, automated change logs, robust PR process)
+- **Game Design & UX** (puzzle/mechanic design, economy balancing, narrative integration)
+- **Accessibility** (both in gameplay design and in tool creation, e.g., BeepBuddy)
 
 ## Featured Projects
 - **[Collidascope VR](https://www.collidascope.art)** – A large-scale immersive XR experience blending art, narrative, and interactivity for Meta Quest 3.  
 - **[Hardlight](https://store.steampowered.com/app/2386770/Hardlight/)** – A futuristic sci-fi tower defense game featuring light-based towers against dark swarms.  
-- **[Beep Buddy](#)** – An accessible iOS music creation tool designed to help working with music production hardware and software.
+- **[Beep Buddy](https://apps.apple.com/np/app/beep-buddy/id6443946812)** – An accessible iOS music creation tool designed to help working with music production hardware and software.
 
 ## Social
 
