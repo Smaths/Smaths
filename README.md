@@ -29,7 +29,7 @@ Building robust software, architecting immersive experiences, and crafting thoug
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Meta XR SDK](https://img.shields.io/badge/Meta%20XR%20SDK-0467DF?logo=meta&logoColor=white&style=for-the-badge)
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
 
 <!--**Domains**  
 Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Systems Architecture, DevOps, Custom Tooling & Pipelines, Analytics & Telemetry, AI & Procedural Content-->
