@@ -1,6 +1,6 @@
 # Eric Wroble
 
-**Senior Full-Stack Software Developer & Game Designer**  
+**Senior Full-Stack Software Developer & Game Designer** 
 
 Building robust software, architecting immersive experiences, and crafting thoughtful tools that make technology more accessible, meaningful, and enjoyable. 
 
@@ -26,10 +26,7 @@ Building robust software, architecting immersive experiences, and crafting thoug
 Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Systems Architecture, DevOps, Custom Tooling & Pipelines, Analytics & Telemetry, AI & Procedural Content
 
 **Focus Areas**  
-- **Performance Optimization** (profiling, Quest-targeted optimization to hit 72 FPS)
-- **DevOps Pipeline** (CI/CD builds, automated change logs, robust PR process)
-- **Game Design & UX** (puzzle/mechanic design, economy balancing, narrative integration)
-- **Accessibility** (both in gameplay design and in tool creation, e.g., BeepBuddy)
+**Performance Optimization** (profiling, Quest-targeted optimization to hit 72 FPS). **DevOps Pipeline** (CI/CD builds, automated change logs, robust PR process). **Game Design & UX** (puzzle/mechanic design, economy balancing, narrative integration). **Accessibility** (both in gameplay design and in tool creation, e.g., BeepBuddy)
 
 ## Featured Projects
 - **[Collidascope VR](https://www.collidascope.art)** – A large-scale immersive XR experience blending art, narrative, and interactivity for Meta Quest 3.  
