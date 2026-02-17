@@ -4,7 +4,7 @@
 
 Building robust software, architecting immersive experiences, and crafting thoughtful tools that make technology more accessible, meaningful, and enjoyable. 
 
-## Tech Stack
+## Stack
 
 <!-- **Languages & Frameworks** -->
 <!-- C#, TypeScript, PHP, Swift, Objective-C, SQL, Laravel, JavaScript, Max/MSP -->
