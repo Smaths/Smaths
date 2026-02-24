@@ -45,6 +45,6 @@ Web & Mobile Development, Game Development (Unity), VR/AR (Meta Quest SDK), Syst
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-wroble/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=orange)](https://smaths.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=orange)](https://ericwroble.com)
 [![Static Badge](https://img.shields.io/badge/Snarfum%20Industries-black?style=for-the-badge&color=4C64AC)](https://snarfum.com)
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logoColor=white&logo=bluesky)](https://bsky.app/profile/snarfum.bsky.social)
