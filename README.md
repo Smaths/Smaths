@@ -1,6 +1,6 @@
 # Eric Wroble
 
-**Senior Full-Stack Software Developer & Game Designer** 
+**Senior Software Engineer & Game Designer** 
 
 Building robust software, architecting immersive experiences, and crafting thoughtful tools that make technology more accessible, meaningful, and enjoyable. 
 
